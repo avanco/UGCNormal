@@ -1,0 +1,21 @@
+
+HOW TO USE:
+- Extracting word frequency from text files before spelling checking:
+./spell -train <TEXT-FILE>
+
+- Getting word frequency from a list (./lexicos/regra+cb_freq.txt):
+./spell -stat ./lexicos/regra+cb_freq.txt
+
+- To run in no interactive mode:
+echo 'word' | ./spell.pl -stat ./lexicos/regra+cb_freq.txt
+
+- Spell-check a file
+./spell -stat ./lexicos/regra+cb_freq.txt -f input_file.txt
+
+- Spell-check files in a dir => it generates a new dir at DIR_PATH/checked
+./spell -stat ./lexicos/regra+cb_freq.txt -d DIR_PATH
+
+
+::DIRS
+- data: data and scripts related to experiments
+

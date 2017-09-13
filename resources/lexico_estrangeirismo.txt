@@ -1,0 +1,249 @@
+FORMA
+autoclean
+auto clean
+auto-clean
+beep
+beeps
+benchmark
+bike
+bikes
+blog
+blogs
+browser
+browsers
+bug
+bugs
+bus 
+capslock
+caps lock
+chat
+chats
+chef
+chefs
+chipset
+chipsets
+clean
+click
+clicks
+clip
+clips
+closed caption
+cooler
+coolers
+datashow
+data show
+data-show
+default
+delay
+design
+desktop
+dispenser
+dispensers
+display
+displays
+download
+downloads
+drive
+driver
+drives
+ebook
+e-book
+ebooks
+e-books
+email
+e-mail
+e-mails
+e-print
+e-prints
+expert
+experts
+fashion
+firmware
+flash
+flashes
+flip
+fougere
+freezer
+freezers
+frizz
+frost free
+frost-free
+gadget
+gadgets
+gamepad
+gamer
+gamers
+glossy paper
+grill
+hamburger
+hamburgers
+handset
+handsets
+hardcore
+headset
+headsets
+hi-tech
+hobbies
+hobby
+home theater
+home theaters
+home theatre
+home theatres
+hotspot
+hotspots
+hub
+hubs
+index
+joypad
+joypads
+joystick
+keyboard
+keyboards
+lag
+lags
+layer
+layout
+lay-out
+layouts
+lay-outs
+link
+links
+login
+logon
+loop
+memory stick
+memory sticks
+motherboard
+mother board
+motherboards
+mother boards
+multiplayer
+multi-player
+multitouch
+multi-touch
+mute
+netbook
+netbooks
+nightshot
+night shot
+nightshots
+night shots
+no break
+no breaks
+notebook
+notebooks
+offboard
+off board
+offline
+off-line
+ok
+onboard
+on board
+online
+on-line
+outdoor
+outdoors
+palmtop
+palm top
+palmtops
+palm tops
+patch
+patches
+pendrive
+pen drive
+pendrives
+pen drives
+personal trainer
+personal trainers
+pictbridge
+pink
+playlist
+playlists
+plug
+plugs
+post
+posts
+recall
+receiver
+receivers
+recovery
+redial
+refresh
+remake
+remakes
+reset
+review
+reviews
+ringtone
+ringtones
+root
+router
+routers
+scan
+scanner
+scanners
+shampoo
+shampoos
+shopping
+shoppings
+single-player
+site
+sites
+skate
+skates
+slide show
+slide shows
+slim
+slot
+slots
+slow motion
+smartphone
+smart phone
+smartphones
+smart tv
+smartv
+smartvs
+sniper
+snipers
+software
+softwares
+standby
+stand by
+stand-by
+stop
+subwoofer
+subwoofers
+superzoom
+surround
+tablet
+tablets
+toilette
+toner
+top
+touchpad
+touch-pad
+touchscreen
+touch screen
+touch- screen
+trailer
+trailers
+ultrabook
+ultrabooks
+ultra-slim
+update
+upgrade
+upload
+uploads
+van
+vans
+walkman
+walkmans
+wallpaper
+wallpapers
+web
+webcam
+web cam
+webcams
+website
+wireless
+zoom

@@ -1,0 +1,160 @@
+SIGLA,EXTENSÃO
+A2DP,Advanced Audio Distribution Profile
+AAC,Advanced Audio Coding
+AAC+,Advanced Audio Coding PLUS
+ABL,Auto Brightness Limiter
+AC3,Audio Codec 3
+ACC,Advanced Audio Coding
+ADSL,Asymmetric Digital Subscriber Line 
+AGPS,Assisted Global Positioning System
+A-GPS,Assisted Global Positioning System
+AIFF,Audio Interchange File Format
+AMOLED,Active-Matrix Organic Light-Emitting Diode
+AMR,Adaptive Multi-Rate
+ANATEL,AgÃªncia Nacional de TelecomunicaÃ§Ã£o
+APK,Android Package
+APS-C,Advanced Photo System type-C
+AVI,Audio Video Interleave
+BGA,Ball Grid Array
+BIOS,Basic Input/Output System
+BSI,Back Side Ilumination
+CBR,Comic Book Reader
+CCD,Charge-Coupled Device
+CDC,Código de Defesa do Consumidor
+CMOS,Complementary Metal Oxide Semiconductor
+COD,Call of Duty
+CODECS,Coder-Decoder
+CPF,Cadastro de Pessoas FÃ­sicas
+D3,Diablo 3
+DDR3,Double Data Rate 3
+DJ,Disk Jockey
+DLC,Downloadable Content
+DLCS,Downloadable Contents
+DLNA,Digital Living Network Alliance
+DMC,Devil May Cry
+DNIE,Digital Natural Image Engine
+DPI,Dots Per Inch
+DRM,Digital rights management
+DSE,Dirty Screen Effect
+DSLR,Digital Single-Lens Reflex 
+DSLR,Digital Single-Lens Reflex camera
+DSLRS,Digital Single-lens Reflex
+DTMF,Dual-Tone Multi-Frequency
+DTV,Digital Television
+DVD,Digital Video Disc
+DVD-R,Digital Video Disc Recorder
+DVI,Digital Visual Interface
+EDTV,Enhanced-Definition Television
+EPG,Electronic Programming Guide
+EPUB,Electronic Publication
+EVF,Eletronic View Finder
+FAQ,Frequently Asked Questions
+FLAC,Free Lossless Audio Codec
+FLV,Flash Live Video
+FM,Frequência Modulada
+FSK, Frequency-shift keying
+GIF,Graphics Interchange Format
+GLP,Gás Liquefeito de Petróleo
+GNV,Gás Natural Veicular
+GPRS,General Packet Radio Service
+GPU,Graphics Processing Unit
+GSM,Global System for Mobile Communications
+GTA,Grand Theft Auto
+GVT,Global Village Telecom
+HD,Hard Disk
+HDDS,Hazards Data Distribution System
+HDMI,High-Definition Multimedia Interface
+HDR,High Dynamic Range
+HSDPA,High-Speed Downlink Packet Access 
+HSUPA,High-Speed Uplink Packet Access
+HTML,HyperText Markup Language
+HVGA,Half-size Video Graphics Array
+ICS,Internet Connection Sharing
+INMETRO,"Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+IP,Internet Protocol
+IPS,In-Plane Switching
+IRDA,Infrared Data Association
+JAR,Java Archive
+JPG,Joint Photographic Experts Group
+JRPG,Japanese role-playing games
+LAG,Latency at Game
+lan,Local Area Network
+LCD,Liquid-Crystal Display
+LTE,Long Term Evolution
+MDF,Medium-Density Fiberboard
+MHL,Mobile High-Definition Link
+MICRO-USB,Micro Universal Serial Bus
+MINI-USB,Mini Universal Serial Bus
+MKV,MatrosKa Video format
+MMA,Mixed Martial Arts
+MMC,MultiMedia Card
+MMS,Multimedia Messaging Service
+MP3,MPEG-1/2 Audio Layer 3
+MP4,MPEG-4 Part 14
+MW3,Modern Warfare 3
+NDS,Nintendo Dual Screen
+NFC,Near Field Communication
+NFS,Need for Speed
+NTFS,New Technology File System
+OCR,Optical Character Recognition
+OLED,Organic Light-Emitting Diode
+PABX,Private Automatic Branch Exchange
+PCI,Peripheral Component Interconnect
+PDA,Personal Digital Assistant
+PDF,Portable Document Format
+PES2012,Pro Evolution Soccer 2012
+PES2013,Pro Evolution Soccer 2013
+PET,Politereftalato de Etileno
+PIP,Picture-In-Picture
+PNG,Portable Network Graphics
+PPI,Pixels per inch
+PS3,PlayStation 3
+PS4,PlayStation 4
+PSN,PlayStation Network
+PSP,PlayStation Portable
+PT-BR,Português do Brasil
+PTT,Push-to-talk
+PVC,Poly Vinyl Chloride
+PVR,Personal Video Recorder
+RCA,Radio Corporation of America
+RDS,Radio Data System
+RF,Radio Frequency
+RGB,Red Green Blue
+RMA,Return Merchandise Authorization
+RMS,Root Mean Square
+RMVB,Real Media Variable Bitrate
+ROM,Read Only Memory
+SAC,Serviço de Atendimento ao Consumidor
+SD,Secure Digital Card
+SDHC,Secure Digital High Capacity
+SDRAM,Synchronous dynamic random access memory
+SMS,Short Message Service
+SMTP,Simple Mail Transfer Protocol 
+SNES,Super Nintendo Entertainment System
+SPDIF,Sony/Philips Digital Interface Format
+SSD,Solid State Drive
+S-VHS,Super Video Home System
+TCC,Trabalho de ConclusÃ£o de Curso
+TFT,Thin Film Transistor
+TN,Twisted Nematic
+TV,Televisão
+UMD,Universal Media Disc
+USB,Universal Serial Bus
+USB2,Universal Serial Bus 2
+USB3,Universal Serial Bus 3
+UTF-8,8-bit Unicode Transformation Format
+UV,Ultra-Violeta
+VCR,Videocassette Recorder
+VESA,Video Electronics Standards Association 
+VGA,Video Graphics Array
+VHS,Video Home System
+VOB,Video Object
+VOIP,Voice Over Internet Protocol
+VR,Vibration Reduction
+WAP,Wireless Application Protocol
+WIDI,Wireless Display
+WLAN,Wireless Local Area Network
+WMA,Windows Media Audio
+WMV,Windows Media Video Format
+WOW,World of Warcraft
+WPS,Wi-Fi Protected Setup

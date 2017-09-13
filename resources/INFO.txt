@@ -1,0 +1,33 @@
+
+>> TODOS ARQUIVOS DEVEM ESTAR EM UTF-8
+
+>> Palavras "gêmeas"
+- eliminar do léxico as palavras pouco frequentes que impedem reconhecimento de erro de acento nas palavras muito frequentes. Ex: óbvio (adj) obvio (v)
+561 (blacklist_gemeas.txt)
+
+>> Lexico de nomes próprios
+- Nomes no lexico do regra: 8465 (nps_lexico_regra.txt)
+- Nomes na anotação para LREC: 939 (nps_lrec.txt)
+- Nomes nos metadados córpus buscapé: 12265 (nps_metadado_buscape.txt)
+- total: 21669
+- união: 21267 (lexico_nome_proprio.txt)
+
+>> Léxico de internetes
+- Internetes do blog
+  (http://linguadedoido.blogspot.com.br/2008/07/dicionrio-de-internets.html):
+298 (internetes_blog.txt)
+- Internetes na anotação para LREC:  55 (internetes_lrec.txt)
+- total: 353
+- união: 341 (léxico_internetes.txt)
+
+>> Léxico de siglas/abreviações de internetes
+79 (lexico_internetes_sigl_abrv.txt)
+
+>> Léxico de estrangeirismos
+248 (lexico_estrangeirismo.txt)
+
+>> Léxico de unidade de medida
+18 (lexico_unidade_medida.txt)
+
+>> Léxico de siglas
+156 (lexico_siglas.txt)
