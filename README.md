@@ -1,5 +1,8 @@
 # UGCNormal
 
+This is a normalizer tool for user-generated content (Brazilian Portuguese). You can use it as a service, look at [https://github.com/thiagootuler/ugcnormal_interface](ugcnormal_interface).
+
+
 ```
 
                             UGC-Normalizer
