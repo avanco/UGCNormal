@@ -1,3 +1,7 @@
+INSTALL DEPENDENCY PKGS:
+sudo cpan -i List::MoreUtils
+sudo cpan -i Text::LevenshteinXS
+sudo cpan -i Parallel::Loops
 
 HOW TO USE:
 - Extracting word frequency from text files before spelling checking:
